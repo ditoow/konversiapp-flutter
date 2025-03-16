@@ -1,0 +1,16 @@
+# Dart & Flutter
+.dart_tool/
+.build/
+.pub/
+*.lock
+
+# Android
+android/.gradle/
+android/app/key.jks
+
+# iOS
+ios/Pods/
+ios/.generated/
+
+# VS Code
+.vscode/
