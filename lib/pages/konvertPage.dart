@@ -48,7 +48,7 @@ class _KonvertpageState extends State<Konvertpage> {
       builder: (BuildContext context) {
         return AlertDialog(
           title: const Text("Error"),
-          content: const Text("Anda Harus Memasukkan Angka"),
+          content: const Text("Anda Harz Memasukkan Angka"),
           actions: <Widget>[
             TextButton(
               child: const Text("OK"),
